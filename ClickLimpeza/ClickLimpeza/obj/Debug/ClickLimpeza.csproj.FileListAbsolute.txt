@@ -1,0 +1,62 @@
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\ClickLimpeza.exe.config
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\ClickLimpeza.exe
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\ClickLimpeza.pdb
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.csproj.AssemblyReference.cache
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.csproj.SuggestedBindingRedirects.cache
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.Properties.Resources.resources
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.csproj.GenerateResource.cache
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.exe
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.pdb
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.MenuFuncionarios.resources
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.MenuInicial.resources
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\MySqlConnector.dll
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Buffers.dll
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Memory.dll
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\MySqlConnector.xml
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Buffers.xml
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Memory.xml
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.csproj.CopyComplete
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.Formulario.MenuClientes.resources
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.Formulario.MenuOrdem.resources
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.Formulario.MenuServicos.resources
+C:\Users\mauricio.ojunior1\Desktop\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.Formulario.MenuCargos.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\ClickLimpeza.exe.config
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\ClickLimpeza.exe
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\ClickLimpeza.pdb
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\MySqlConnector.dll
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Buffers.dll
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Memory.dll
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\MySqlConnector.xml
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Buffers.xml
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Memory.xml
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.csproj.AssemblyReference.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.Formulario.MenuCargos.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.Formulario.MenuClientes.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.MenuFuncionarios.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.MenuInicial.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.Formulario.MenuOrdem.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.Formulario.MenuServicos.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.Properties.Resources.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.csproj.GenerateResource.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.csproj.CoreCompileInputs.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.csproj.CopyComplete
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.exe
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Área de Trabalho\Projeto ClickLimpeza\ClickLimpeza\ClickLimpeza\obj\Debug\ClickLimpeza.pdb
